@@ -1,2 +1,2 @@
 # projects
-The repository contains different project I worked on to sharpen my data science skills
+The repository contains different projects I worked on to sharpen my data science skills
